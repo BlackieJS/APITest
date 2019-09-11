@@ -1,7 +1,6 @@
 {
-  "login": 
-    {
-      "code": 001,
-      "msg": "Success"
-    }
+  "login": {
+    "code": "001",
+    "msg": "Success"
+  }
 }
